@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1084703829647",
+    "project_id": "myandroidproject-df460",
+    "storage_bucket": "myandroidproject-df460.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084703829647:android:12269df59376868815cafa",
+        "android_client_info": {
+          "package_name": "com.example.myandroidproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgFLY5qvrTuKDENnfeXaeXWx2FiarJCNQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

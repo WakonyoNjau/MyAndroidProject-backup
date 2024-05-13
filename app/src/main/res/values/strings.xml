@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyAndroidProject</string>
+    <string name="text_example_jetpack_compose" />
+    <string name="button_example_jetpack_compose" />
+</resources>
